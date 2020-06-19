@@ -1,0 +1,41 @@
+#main {
+    margin: 1em;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(204, 204, 204);
+    padding: 1em 3em 1em 3em;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+/* User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size. */
+#img-div {
+    background-color: white;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+}
+
+#title {
+    text-align: center;
+}
+
+/* User Story #9: The img element should be centered within its parent element. */
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+#cita {
+    text-align: left;
+}
+
+.color-letra {
+    color: rgb(43, 43, 46);
+}
