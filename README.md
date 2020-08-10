@@ -1,3 +1,5 @@
-# fcc-001-tribute-page
-freeCode Camp curriculum: responsive web design projects, tribute page
-successfully completed
+# freeCode Camp curriculum
+
+## fcc-001-tribute-page
+
+### DiegoMMF
