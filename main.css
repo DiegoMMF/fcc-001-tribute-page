@@ -1,3 +1,11 @@
+body {
+  background: url("https://pixabay.com/get/57e1d3464e51b108feda8460cf2e3479133ddff85257714a7d2f7ad79749_1920.jpg") no-repeat
+    center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 main {
   margin: auto;
   font-family: "Lato", sans-serif;
@@ -41,12 +49,6 @@ h2 {
 
 .color-letra {
   color: rgb(43, 43, 46);
-}
-
-body {
-  max-width: 100%;
-  margin: 0;
-  padding: 0;
 }
 
 #fondito {
