@@ -1,6 +1,6 @@
 # freeCode Camp curriculum
 ## Responsive Web Design Certification
-### Porject 1/5: fcc-001-tribute-page
+### Project 1/5: fcc-001-tribute-page
 Web hosted in: https://fcc-001-tribute-page.vercel.app/
 
 #### Author DiegoMMF
