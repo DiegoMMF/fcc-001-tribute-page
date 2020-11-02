@@ -1,21 +1,14 @@
 body {
-  background: url("https://pixabay.com/get/57e1d3464e51b108feda8460cf2e3479133ddff85257714a7d2f7ad79749_1920.jpg") no-repeat
-    center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background-color: gray;
 }
 main {
   margin: auto;
   font-family: "Lato", sans-serif;
   background-color: aliceblue;
-  opacity: 0.7;
   padding: 1em 3em 1em 3em;
   border-radius: 5px;
   text-align: justify;
   width: 60%;
-/*   position: relative; */
 }
 
 /* User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size. */
@@ -49,8 +42,4 @@ h2 {
 
 .color-letra {
   color: rgb(43, 43, 46);
-}
-
-#fondito {
-    position: fixed;
 }
