@@ -4,6 +4,7 @@
 Web hosted in: https://fcc-001-tribute-page.vercel.app/
 
 #### Author DiegoMMF
+https://www.linkedin.com/in/diegommf/
 
 ## Assigment:
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
